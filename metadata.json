@@ -1,0 +1,6 @@
+{
+  "name": "Simple React Test App",
+  "description": "A basic React application to demonstrate core setup and Tailwind CSS styling, featuring an interactive counter.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
